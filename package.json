@@ -1,0 +1,17 @@
+{
+  "name": "assignment13_mysql_nordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^2.5.11",
+    "mysql": "^2.18.1"
+  }
+}
